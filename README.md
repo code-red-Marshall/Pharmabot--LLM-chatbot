@@ -24,7 +24,7 @@ Increased customer engagement on the website, contributing to an approximate ann
 
 ## Chatbot Architecture: 
 
-![sda (1)](https://github.com/code-red-Marshall/Pharmabot--LLM-chatbot/assets/82904501/e376272b-a9a3-49b8-bc69-1776b40ce53f)
+![sda (1)](https://github.com/code-red-Marshall/Pharmabot--LLM-chatbot/assets/82904501/cd47adc9-68cb-4ee3-9159-8aa12a2aba2f)
 
 ## Bot Flow:
 
