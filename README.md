@@ -29,8 +29,10 @@ Increased customer engagement on the website, contributing to an approximate ann
 ## Bot Flow:
 
 Step 1 : The user puts in the details of the drug i.e Composition + Strength + Dosage and asks if the combination is Scheduled or Non-Scheduled
+
 Step 2 : The bot checks if the combination is available in the dataset. 
 It then fetches the information from the given dataset and comes back with the answer : Scheduled/Non-scheduled/ New Drug.
+
 Step 3: If the drug is not found in the dataset, it will be considered as a new drug directly. And the bot asks the user to contact the team for further pricing details.
 
 Step 4:  if the drug is non-scheduled, the bot first asks if the manufacturer is an existing producer of the drug before may 2013. If yes, that drug will be considered as a new drug. If no, the bot identifies the drug as a non-scheduled drugs. 
