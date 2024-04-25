@@ -35,9 +35,9 @@ It then fetches the information from the given dataset and comes back with the a
 
 Step 3: If the drug is not found in the dataset, it will be considered as a new drug directly. And the bot asks the user to contact the team for further pricing details.
 
-Step 4:  if the drug is non-scheduled, the bot first asks if the manufacturer is an existing producer of the drug before may 2013. If yes, that drug will be considered as a new drug. If no, the bot identifies the drug as a non-scheduled drugs. 
+Step 4:  if the drug is non-scheduled, the bot first asks if the manufacturer is an existing producer of the drug before may 2013. If yes, that drug will be considered as a new drug. If no, the bot identifies the drug as a non-scheduled drug. 
 
-Step 5: If the drug is Scheduled, the bot identifies the drug as Scheduled drugs. 
+Step 5: If the drug is Scheduled, the bot identifies the drug as Scheduled drug. 
 
 Step 6: The bot also asks if the user wants to know the MRP of the combination.
 If non-scheduled : The MRP for the present year is mentioned in the dataset and the bot fetches it from the vector database. The MRP of non-scheduled drugs can be increased by 10% every 12 months from the date of last updated price.
