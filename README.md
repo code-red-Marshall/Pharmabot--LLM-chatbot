@@ -1,4 +1,4 @@
-# # Pharmabot : A natural Responsive Chatbot made using Google PaLM 2
+# # Pharmabot : A natural Responsive Chatbot made using Google PaLM 2 🧠🤖
 
 ![google_palm2_hero_1](https://github.com/code-red-Marshall/Pharmabot--LLM-chatbot/assets/82904501/6f377da5-54ec-444e-982d-3136664b49c9)
 
