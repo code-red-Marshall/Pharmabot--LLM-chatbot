@@ -1,0 +1,8 @@
+langchain-community
+langchain
+torch
+tqdm
+pandas
+sentence-transformers
+chainlit
+googlegenerativeai
